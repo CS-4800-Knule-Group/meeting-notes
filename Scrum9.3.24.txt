@@ -1,0 +1,17 @@
+Scrum Notes 09/03/24
+Accomplished Previously:
+Blake - Labor Day
+Eric - Created Github Organization
+Nathan - Labor Day
+Josh - Labor Day
+Jimmy - Populated Database with dummy data
+Todo:
+Blake - Work on SRS
+Eric - Work on SRS
+Nathan - Working on the webpage
+Josh - Work on SRS
+Jimmy - write functional requirements
+Attendance/Additional Notes
+
+*Technical difficulties due to campus wifi outage
+Josh was unable to join and we had difficulties hearing each other

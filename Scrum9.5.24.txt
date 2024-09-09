@@ -1,0 +1,15 @@
+Scrum Notes 09/05/24
+Accomplished Previously:
+Blake - Troubleshooting Database Page
+Eric - ????
+Nathan - Started Vite app & added second page
+Josh - Created the company logo
+Jimmy - Worked on setting up DynamoDB by uploading and retrieving data
+Todo:
+Blake - prepare to present to professor
+Eric - ????
+Nathan - Cleaning visuals & researching best way to add the meeting minutes to the site
+Josh - Work on website
+Jimmy - Continue working on DynamoDB + get the tables up and running on Blake's AWS
+Attendance/Additional Notes
+Meeting was not synchronous due to scheduling conflicts

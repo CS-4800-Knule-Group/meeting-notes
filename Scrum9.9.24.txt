@@ -1,0 +1,14 @@
+Scrum Notes 09/09/24
+Accomplished Previously:
+Blake - Broke Down SRS requirements, standardaized scrum notes
+Eric - Found company website design templates
+Nathan - Fixed an Error on the Company site, Helped Josh with HTML/CSS
+Josh - Worked on HTML and CSS of company site
+Jimmy - Database Site Deployed
+Todo:
+Blake - Uploading notes to Git, adding to company website
+Eric - helping nathan with company website
+Nathan - Pulling notes from Git onto the website
+Josh - Fix issues with pushing to Git
+Jimmy - researching frontend for for social media app
+Attendance/Additional Notes

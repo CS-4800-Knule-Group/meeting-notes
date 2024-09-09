@@ -1,0 +1,14 @@
+Scrum Notes 09/04/24
+Accomplished Previously:
+Blake - Contributed to SRS doc Project description
+Eric - contributed to SRS doc
+Nathan - Setup access to Website/Database research
+Josh - Contributed to SRS Agreement sheet
+Jimmy - SRS document Functional/Nonfunctional requirements
+Todo:
+Blake - Continue Contributions to SRS doc
+Eric - continue contributing to SRS
+Nathan - React side of website
+Josh - Logo/Website design research
+Jimmy - AWS database Setup
+Attendance/Additional Notes

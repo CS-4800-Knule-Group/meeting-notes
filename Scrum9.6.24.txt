@@ -1,0 +1,16 @@
+Scrum Notes 09/06/24
+Accomplished Previously:
+Blake - Troubleshooting database website to present to professor
+Eric - Website design research
+Nathan - Testing out framework for the company site
+Josh - Worked with nathan to fix the HTML
+Jimmy - Finished the database website framework
+Todo:
+Blake - Standardize scrum notes, Elaborate on System Reqs in SRS
+Eric - coordinate w/ Josh on website design
+Nathan - work on company site, prepare a space for hosting the notes
+Josh - work on the HTML for the company site
+Jimmy - working on getting database site hosted
+Attendance/Additional Notes
+Josh was unable to attend the meeting, he attended later.
+
