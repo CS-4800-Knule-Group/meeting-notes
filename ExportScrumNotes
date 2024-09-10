@@ -1,1 +1,6 @@
-[{"Date":"09/03/24", "Body":"Accomplished Previously: \nBlake - Labor Day \nEric - Created Github Organization\nNathan - Labor Day\nJosh - Labor Day\nJimmy - Populated Database with dummy data\nTodo:\nBlake - Work on SRS\nEric - Work on SRS\nNathan - Working on the webpage\nJosh - Work on SRS\nJimmy - write functional requirements\nAttendance/Additional Notes\n*Technical difficulties due to campus wifi outage\nJosh was unable to join and we had difficulties hearing each other"}]
+[{
+    "Date":"09/03/24", 
+    "Finished":"Accomplished Previously: \nBlake - Labor Day \nEric - Created Github Organization\nNathan - Labor Day\nJosh - Labor Day\nJimmy - Populated Database with dummy data", 
+    "Todo" : "Blake - Work on SRS\nEric - Work on SRS\nNathan - Working on the webpage\nJosh - Work on SRS\nJimmy - write functional requirements\nAttendance/Additional Notes\n*Technical difficulties due to campus wifi outage\nJosh was unable to join and we had difficulties hearing each other"},
+
+]
