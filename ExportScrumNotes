@@ -3,5 +3,35 @@
     "Finished":"Blake - Labor Day \nEric - Created Github Organization\nNathan - Labor Day\nJosh - Labor Day\nJimmy - Populated Database with dummy data", 
     "Todo" : "Blake - Work on SRS\nEric - Work on SRS\nNathan - Working on the webpage\nJosh - Work on SRS\nJimmy - write functional requirements",
     "Notes" : "Technical difficulties due to campus wifi outage\nJosh was unable to join and we had difficulties hearing each other"
+},
+{
+    "Date":"09/04/24",
+    "Finished":"Blake - Contributed to SRS doc Project description\nEric - contributed to SRS doc\nNathan - Setup access to Website/Database research\nJosh - Contributed to SRS Agreement sheet\nJimmy - SRS document Functional/Nonfunctional requirements",
+    "Todo":"Blake - Continue Contributions to SRS doc\nEric - continue contributing to SRS\nNathan - React side of website\nJosh - Logo/Website design research\nJimmy - AWS database Setup",
+    "Notes":""
+},
+{
+    "Date":"09/05/24",
+    "Finished":"Blake - Troubleshooting Database Page\nEric - ????\nNathan - Started Vite app & added second page\nJosh - Created the company logo\nJimmy - Worked on setting up DynamoDB by uploading and retrieving data",
+    "Todo":"Blake - prepare to present to professor\nEric - ????\nNathan - Cleaning visuals & researching best way to add the meeting minutes to the site\nJosh - Work on website\nJimmy - Continue working on DynamoDB + get the tables up and running on Blake's AWS",
+    "Notes":"Meeting was not synchronous due to scheduling conflicts"
+},
+{
+    "Date":"09/06/24",
+    "Finished":"Blake - Troubleshooting database website to present to professor\nEric - Website design research\nNathan - Testing out framework for the company site\nJosh - Worked with nathan to fix the HTML\nJimmy - Finished the database website framework",
+    "Todo":"Blake - Standardize scrum notes, Elaborate on System Reqs in SRS\nEric - coordinate w/ Josh on website design\nNathan - work on company site, prepare a space for hosting the notes\nJosh - work on the HTML for the company site\nJimmy - working on getting database site hosted",
+    "Notes":"Josh was unable to attend the meeting, he attended later."
+},
+{
+    "Date":"09/09/24",
+    "Finished":"Blake - Broke Down SRS requirements, standardaized scrum notes\nEric - Found company website design templates\nNathan - Fixed an Error on the Company site, Helped Josh with HTML/CSS\nJosh - Worked on HTML and CSS of company site\nJimmy - Database Site Deployed",
+    "Todo":"Blake - Uploading notes to Git, adding to company website\nEric - helping nathan with company website\nNathan - Pulling notes from Git onto the website\nJosh - Fix issues with pushing to Git\nJimmy - researching frontend for for social media app",
+    "Notes":""
+},
+{
+    "Date":"",
+    "Finished":"",
+    "Todo":"",
+    "Notes":""
 }
 ]
