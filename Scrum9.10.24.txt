@@ -1,0 +1,14 @@
+Scrum Notes 09/10/24
+Accomplished Previously:
+Blake - created Git repo for scrum notes
+Eric - start on about us page
+Nathan - Created records page HTML/CSS and added the relevant data.
+Josh - Figured out why i cant push on github
+Jimmy - Read up on how to connect a frontend site with a backend server
+Todo:
+Blake - add a blurb to the company site
+Eric - continue working on about us page
+Nathan - Host the company website
+Josh - Im going to add the logo and everything to the html, cleaning it up some more
+Jimmy - Try to implement front end site of social media app
+Attendance/Additional Notes
