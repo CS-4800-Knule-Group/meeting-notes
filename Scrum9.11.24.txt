@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - Wrote a blurb for the site, added yesterays notes
+Eric - worked on about page
+Nathan - hosted the site, formatted the notes page
+Josh - Cleaned up CSS
+Jimmy - Reading up documentation on API Gateways
+Todo:
+Blake - wtrite up a bio for the company site
+Eric - catching up on about page/maybe contact
+Nathan - create a react frontend based on company site
+Josh - continue filling up website, adding footers/blurbs
+Jimmy - working on backend/frontend connection for social media app
+Attendance/Additional Notes:
