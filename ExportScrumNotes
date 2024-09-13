@@ -41,6 +41,12 @@
     "Notes":""
 },
 {
+    "Date":"09/12/24",
+    "Finished":"Blake - wrote a blurb for the site\nEric -  figuring out html to format about us page\nNathan - set up social media app and added basic routing\nJosh - Added CEO note, reorganized bits of the website, and worked on adding a footer\nJimmy - Hosted social media site",
+    "Todo":"Blake - write bio and submit it to the site\nEric -  finish up about us and contact page and push to repo branch\nNathan - add html and css detail to social media app\nJosh - Get it pushed into the github by transferring it all to my pc then pushing\nJimmy - Continue trying to connect it to the server",
+    "Notes":"Asynchronus Meeting"
+},
+{
     "Date":"",
     "Finished":"",
     "Todo":"",

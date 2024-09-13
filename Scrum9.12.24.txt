@@ -1,0 +1,15 @@
+Scrum Notes 09/12/24
+Accomplished Previously:
+Blake - wrote a blurb for the site
+Eric -  figuring out html to format about us page 
+Nathan - set up social media app and added basic routing
+Josh - Added CEO note, reorganized bits of the website, and worked on adding a footer
+Jimmy - Hosted social media site
+Todo:
+Blake - write bio and submit it to the site
+Eric -  finish up about us and contact page and push to repo branch
+Nathan - add html and css detail to social media app
+Josh - Get it pushed into the github by transferring it all to my pc then pushing
+Jimmy - Continue trying to connect it to the server
+Attendance/Additional Notes:
+Asynchronus Meeting
