@@ -1,0 +1,14 @@
+Scrum Notes 09/13/24
+Accomplished Previously:
+Blake - wrote a bio for contact
+Eric - pushed the contact page of the site
+Nathan - updated html for the social media site
+Josh - worked on CSS for the site
+Jimmy - worked on the database cores
+Todo:
+Blake - work on srs doc
+Eric - help with srs doc
+Nathan - update the database
+Josh - pushing HTML/CSS for the updated site
+Jimmy - buf fixing the database cores
+Attendance/Additional Notes

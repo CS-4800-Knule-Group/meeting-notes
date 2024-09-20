@@ -1,0 +1,14 @@
+Scrum Notes 09/18/24
+Accomplished Previously:
+Blake - Reorganized ERD
+Eric - Editing the ERD
+Nathan - pushed the HTML for the site
+Josh - Discovered a Bug on the site, Opened the ERD, Reorganized SRS
+Jimmy - Refactoring server code
+Todo:
+Blake - Change certain items into objects on the ERD
+Eric - Continue editing the ERD
+Nathan - Creating post object/table
+Josh - finish SRS
+Jimmy - updatingsite to display tables
+Attendance/Additional Notes

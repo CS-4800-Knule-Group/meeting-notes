@@ -1,0 +1,14 @@
+Scrum Notes 09/16/24
+Accomplished Previously:
+Blake - Srs document Fr
+Eric - pushed about us page
+Nathan - HTML/CSS for the Social madia site
+Josh - Transferred and pushed new HTML, started ERD
+Jimmy - Setup cores on the server
+Todo:
+Blake - Continue working on SRS
+Eric - Work on ERD
+Nathan - Continue working on HTML/CSS
+Josh - Add Footer to website
+Jimmy - working on the database
+Attendance/Additional Notes

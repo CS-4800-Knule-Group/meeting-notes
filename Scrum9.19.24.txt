@@ -1,0 +1,14 @@
+Scrum Notes 09/19/24
+Accomplished Previously:
+Blake - Proposed item changes
+Eric - Worked on ERD, Added footer to the main site
+Nathan - Studying jimmy's table implementation
+Josh - Working on SRS
+Jimmy - Created Mock data for Posts
+Todo:
+Blake - Add more classes to ERD
+Eric - Update SRS
+Nathan - Adding more Buttons to the DB site
+Josh - Finalizing SRS Document
+Jimmy - Create mock data for Likes/Comments
+Attendance/Additional Notes

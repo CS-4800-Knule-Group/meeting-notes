@@ -1,0 +1,14 @@
+Scrum Notes 09/17/24
+Accomplished Previously:
+Blake - Rewrote project description
+Eric - Adding Relationships to the ERD model
+Nathan - Style research for the social media site
+Josh - Created the ERD, Pushed the Footer
+Jimmy - Modified DB structure, created Posts object
+Todo:
+Blake - Review ERD Model
+Eric - Continue to Work on ERD
+Nathan - Update the social media site style
+Josh - Updating CSS for parity across sites
+Jimmy - Adding Posts to DB site
+Attendance/Additional Notes
