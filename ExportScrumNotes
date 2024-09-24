@@ -45,7 +45,8 @@
     "Finished":"Blake - wrote a blurb for the site\nEric -  figuring out html to format about us page\nNathan - set up social media app and added basic routing\nJosh - Added CEO note, reorganized bits of the website, and worked on adding a footer\nJimmy - Hosted social media site",
     "Todo":"Blake - write bio and submit it to the site\nEric -  finish up about us and contact page and push to repo branch\nNathan - add html and css detail to social media app\nJosh - Get it pushed into the github by transferring it all to my pc then pushing\nJimmy - Continue trying to connect it to the server",
     "Notes":"Asynchronus Meeting"
-
+},
+{
     "Date":"09/13/24",
     "Finished":"Blake - wrote a bio for contact\nEric - pushed the contact page of the site\nNathan - updated html for the social media site\nJosh - worked on CSS for the site\nJimmy - worked on the database cores",
     "Todo":"Blake - work on srs doc\nEric - help with srs doc\nNathan - update the database\nJosh - pushing HTML/CSS for the updated site\nJimmy - buf fixing the database cores",
