@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - Re-did ER chart
+Eric - working on login functionality
+Nathan - working on linking UserID to browser cookies
+Josh - Working on profile page
+Jimmy - Finished 
+Todo:
+Blake - work on the document
+Eric - pushing login functionality
+Nathan - ????
+Josh - Driving
+Jimmy - Comment functionality
+Attendance/Additional Notes

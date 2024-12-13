@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - drafted a diagram for the Create account feature
+Eric - researched buttons for site
+Nathan - research frontend
+Josh - Researching backend code
+Jimmy - researching UserAuth
+Todo:
+Blake - drafting more diagrams
+Eric - working on frontend buttons
+Nathan - study diagrams
+Josh - Login page research
+Jimmy - implementing UserAuth
+Attendance/Additional Notes

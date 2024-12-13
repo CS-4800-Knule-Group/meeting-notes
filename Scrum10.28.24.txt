@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - working on followers
+Eric - ????
+Nathan - worked on messaging, cleaned up code
+Josh - ????
+Jimmy - working on abstracting login function
+Todo:
+Blake - research the followers modal
+Eric - ????
+Nathan - researching profile buckets 
+Josh - ????
+Jimmy - refactoring code
+Attendance/Additional Notes

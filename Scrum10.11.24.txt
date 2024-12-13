@@ -1,0 +1,14 @@
+Scrum Notes 10/11/24
+Accomplished Previously:
+Blake - added user
+Eric - modal button to create chat
+Nathan - connecting websockets to frontend
+Josh - working on input validation
+Jimmy - messaging backend
+Todo:
+Blake - research adding user id to list
+Eric - adding profile page functionality
+Nathan - setup database to update followers
+Josh - cleaning up CSS on messages page
+Jimmy - messaging bugfixing
+Attendance/Additional Notes

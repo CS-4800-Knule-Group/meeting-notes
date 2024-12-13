@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - diagrams
+Eric - research
+Nathan - researching messaging sockets
+Josh - verification for login
+Jimmy - ????
+Todo:
+Blake - Decode username
+Eric - Frontend for messages
+Nathan - use websockets/draft UI design
+Josh - bugfixing
+Jimmy - ????
+Attendance/Additional Notes

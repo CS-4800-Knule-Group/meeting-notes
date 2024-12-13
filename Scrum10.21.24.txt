@@ -1,0 +1,14 @@
+Scrum Notes 10/21/24
+Accomplished Previously:
+Blake - midterm
+Eric - midterm, working on pfp
+Nathan - Created new backend methods for following, updated main site with profile view and follow/unfollow buttons, moved message button
+Josh - midterm, working on followers
+Jimmy - messaging troubleshooting
+Todo:
+Blake - catch up on code, followers list visibility
+Eric - working on profile pictures/banner
+Nathan - looking into alternatives to websocket
+Josh - posts on profile page
+Jimmy - Working on profile page, looking at alternatives to websockets
+Attendance/Additional Notes

@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - reading through the codebase
+Eric - working on login functionality
+Nathan - ????
+Josh - working on profile page
+Jimmy - simple post functionality
+Todo:
+Blake - Start the document
+Eric - work with nathan to push login functionality
+Nathan - ????
+Josh - finish profile page CSS
+Jimmy - retrieving posts from specific users
+Attendance/Additional Notes

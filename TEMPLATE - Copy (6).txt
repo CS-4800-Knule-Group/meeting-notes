@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - ????
+Eric - working with jimmy for likes
+Nathan - merging branches, resolving conflicts, usernames on post page
+Josh - ????
+Jimmy - implemented likes/comments
+Todo:
+Blake - ????
+Eric - ????
+Nathan - posts on images
+Josh - ????
+Jimmy - bugfixes on posts page
+Attendance/Additional Notes

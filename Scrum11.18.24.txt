@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - some unit tests
+Eric - ????
+Nathan - added extra unit tests
+Josh - Pushing code from laptop
+Jimmy - post deletion implementation
+Todo:
+Blake - Design description
+Eric - ????
+Nathan - images added to posts through buckets
+Josh - Working on homepage L&F
+Jimmy - adding comments
+Attendance/Additional Notes

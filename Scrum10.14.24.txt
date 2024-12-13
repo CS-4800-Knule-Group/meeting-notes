@@ -1,0 +1,14 @@
+Scrum Notes 10/14/24
+Accomplished Previously:
+Blake - brainstorming friends list
+Eric - researching S3 buckets for profile pic
+Nathan - adding more requests to the database to creater lists
+Josh - researching backend
+Jimmy - busy weekend
+Todo:
+Blake - implement adding follower
+Eric - implement buckets for pfp
+Nathan - implimenting server side requests
+Josh - helping out with webpage and researching
+Jimmy - fixing messaging page
+Attendance/Additional Notes

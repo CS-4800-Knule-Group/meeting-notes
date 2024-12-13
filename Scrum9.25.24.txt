@@ -1,0 +1,14 @@
+Scrum Notes 09/25/24
+Accomplished Previously:
+Blake - studied code, opened the architechture diagram
+Eric - Finsishing up Login functionality
+Nathan - Troubleshooting CSS on the site
+Josh - Fixed CSS header problem, other CSS tweaks
+Jimmy - finished login functionality
+Todo:
+Blake - finish architecture diagram
+Eric - Pushing Login functionality
+Nathan - Working on profile pages
+Josh - Touch up Landing Page, look over the feed page
+Jimmy - research JWT
+Attendance/Additional Notes

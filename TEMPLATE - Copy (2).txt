@@ -1,0 +1,14 @@
+Scrum Notes 11/1/24
+Accomplished Previously:
+Blake - Use Case Document
+Eric - Use Case Document
+Nathan - implemented media upload modal
+Josh - ????
+Jimmy - researching login redirect bug
+Todo:
+Blake - CEO documents for sprint
+Eric - wrap up use cases/bucket implementation
+Nathan - conntect media upload to bucket
+Josh - ????
+Jimmy - new authentication modal
+Attendance/Additional Notes

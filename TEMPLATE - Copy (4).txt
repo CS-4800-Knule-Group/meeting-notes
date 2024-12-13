@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - Outline for demo
+Eric - ????
+Nathan - ????
+Josh - Post Deletion feature
+Jimmy - helping nathan with posting bugfixes
+Todo:
+Blake - adding refresh
+Eric - working on likes
+Nathan - ???
+Josh - pushing code from laptop into production, minor site fixes
+Jimmy - posting fixes
+Attendance/Additional Notes

@@ -1,0 +1,14 @@
+Scrum Notes 10/30/24
+Accomplished Previously:
+Blake - opened use case document
+Eric - busy various things
+Nathan - Researching Buckets
+Josh - ????
+Jimmy - fixed login modal
+Todo:
+Blake - work w/josh on follower modal
+Eric - Working w/nathan to catch up on buckets, Use Cases
+Nathan - imple,ent buckets with eric
+Josh - ????
+Jimmy - refactor feed/explorer data fetch
+Attendance/Additional Notes

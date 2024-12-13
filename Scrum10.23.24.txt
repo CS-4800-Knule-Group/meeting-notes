@@ -1,0 +1,14 @@
+Scrum Notes 10/23/24
+Accomplished Previously:
+Blake - registration, opened a branch for followers
+Eric - ????
+Nathan - ????
+Josh - Worked on PFP CSS, and timestamp conversion
+Jimmy - looking over frontend
+Todo:
+Blake - ????
+Eric - ????
+Nathan - ????
+Josh - continue on pfp css
+Jimmy - abstracting login
+Attendance/Additional Notes

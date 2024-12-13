@@ -1,0 +1,14 @@
+Scrum Notes 11/20/24
+Accomplished Previously:
+Blake - started on design section
+Eric - working on like functionality, adding to doc
+Nathan - ????
+Josh - ????
+Jimmy - Like/Comment functionality backend, added to document
+Todo:
+Blake - update diagrams for current project
+Eric - working on document
+Nathan - ????
+Josh - ????
+Jimmy - adding more pages to document
+Attendance/Additional Notes

@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - researching  putting names to posts
+Eric - message page setup
+Nathan - websockets research
+Josh - input validation
+Jimmy - websocket resarch
+Todo:
+Blake - putting names on posts
+Eric - adding messaging components
+Nathan - implementing some of the server side socket code
+Josh - authentication
+Jimmy - Websocket setup
+Attendance/Additional Notes

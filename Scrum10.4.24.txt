@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - Network overview
+Eric - ????
+Nathan - pushed feed functionality
+Josh - ????
+Jimmy - Comment functionality
+Todo:
+Blake - working on diagram
+Eric - ????
+Nathan - researching messaging app/html
+Josh - ????
+Jimmy - researching messaging
+Attendance/Additional Notes

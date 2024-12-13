@@ -1,0 +1,14 @@
+Scrum Notes 11/06/24
+Accomplished Previously:
+Blake - Working on CEO Report
+Eric - working on logout function
+Nathan - merged a lot of branches into main
+Josh - Bugfixes with the new sidebar, following modal works on other profiles, reorganized header
+Jimmy - updating login css
+Todo:
+Blake - finishing up CEO report
+Eric - finishing logout funtion
+Nathan - sort function for explore page
+Josh - Going on vacation, minor bugfixes, delete posts
+Jimmy - assisting eric on profile css
+Attendance/Additional Notes

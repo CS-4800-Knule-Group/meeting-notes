@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - caught up
+Eric - ????
+Nathan - ????
+Josh - researched for followwers list
+Jimmy - catching up with other class
+Todo:
+Blake - submit the document, work on code
+Eric - ????
+Nathan - ????
+Josh - ????
+Jimmy - socket trouble shooting/look into socket.io
+Attendance/Additional Notes

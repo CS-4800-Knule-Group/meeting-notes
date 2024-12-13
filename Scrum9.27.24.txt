@@ -1,0 +1,14 @@
+Scrum Notes 09/27/24
+Accomplished Previously:
+Blake - made branch
+Eric - Making the login page branch
+Nathan - reviewing Regex, adjusting profile page
+Josh - pushing the registration page
+Jimmy - implemented JWT
+Todo:
+Blake - Work on pushing new backend
+Eric - Finish and push the login page with backend functionality
+Nathan - regex for registration
+Josh - work on profile
+Jimmy - work on posts function
+Attendance/Additional Notes
