@@ -9,6 +9,6 @@ Todo:
 Blake - submit the document, work on code
 Eric - ????
 Nathan - ????
-Josh - ????
+Josh - follower list implementation
 Jimmy - socket trouble shooting/look into socket.io
 Attendance/Additional Notes
