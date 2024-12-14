@@ -1,14 +1,14 @@
 Scrum Notes 11/22/24
 Accomplished Previously:
-Blake - ????
+Blake - new network diagram
 Eric - ????
-Nathan - ????
-Josh - ????
+Nathan - worked on fixing msg
+Josh - finalize delete post functionality
 Jimmy - ????
 Todo:
-Blake - ????
-Eric - ????
-Nathan - ????
-Josh - ????
+Blake - presentation outline
+Eric - finishing likes feature and work on appendix for documentation
+Nathan - fix posting, add imgs
+Josh - transfer delete function to pc and push
 Jimmy - ????
 Attendance/Additional Notes
