@@ -144,152 +144,176 @@
 },
 {
     "Date": "10/09/24",
-    "Finished":"Blake-researchingputtingnamestoposts\nEric-messagepagesetup\nNathan-websocketsresearch\nJosh-inputvalidation\nJimmy-websocketresarch",
-    "Todo": "Blake-puttingnamesonposts\nEric-addingmessagingcomponents\nNathan-implementingsomeoftheserversidesocketcode\nJosh-authentication\nJimmy-Websocketsetup",
+    "Finished": "Blake - researching putting names to posts\nEric - message page setup\nNathan - websockets research\nJosh - input validation\nJimmy - websocket research",
+    "Todo": "Blake - putting names on posts\nEric - adding messaging components\nNathan - implementing some of the server side socket code\nJosh - authentication\nJimmy - Websocket setup",
     "Notes": ""
 },
 {
     "Date": "10/11/24",
-    "Finished":"Blake-addeduser\nEric-modalbuttontocreatechat\nNathan-connectingwebsocketstofrontend\nJosh-workingoninputvalidation\nJimmy-messagingbackend",
-    "Todo": "Blake-researchaddinguseridtolist\nEric-addingprofilepagefunctionality\nNathan-setupdatabasetoupdatefollowers\nJosh-cleaningupCSSonmessagespage\nJimmy-messagingbugfixing",
+    "Finished": "Blake - added user\nEric - modal button to create chat\nNathan - connecting websockets to frontend\nJosh - working on input validation\nJimmy - messaging backend",
+    "Todo": "Blake - research adding user id to list\nEric - adding profile page functionality\nNathan - setup database to update followers\nJosh - cleaning up CSS on messages page\nJimmy - messaging bug fixing",
     "Notes": ""
 },
 {
     "Date": "10/14/24",
-    "Finished":"Blake-brainstormingfriendslist\nEric-researchingS3bucketsforprofilepic\nNathan-addingmorerequeststothedatabasetocreaterlists\nJosh-researchingbackend\nJimmy-busyweekend",
-    "Todo": "Blake-implementaddingfollower\nEric-implementbucketsforpfp\nNathan-implimentingserversiderequests\nJosh-helpingoutwithwebpageandresearching\nJimmy-fixingmessagingpage",
+    "Finished": "Blake - brainstorming friends list\nEric - researching S3 buckets for profile pic\nNathan - adding more requests to the database to create lists\nJosh - researching backend\nJimmy - busy weekend",
+    "Todo": "Blake - implement adding follower\nEric - implement buckets for pfp\nNathan - implementing server side requests\nJosh - helping out with webpage and researching\nJimmy - fixing messaging page",
     "Notes": ""
 },
 {
     "Date": "10/15/24",
-    "Finished":"Blake-workingonfollowerlist\nEric-researchintoS3Buckets\nNathan-Reviewedcreatingserverrequests\nJosh-Reviewedcode\nJimmy-troubleshootingwebsockets",
-    "Todo": "Blake-reviewingthenetworkoverviewdocument\nEric-startworkingonS3Buckets\nNathan-Follow/following/blockserverrequests\nJosh-workingonFollowbuttonCSS\nJimmy-lookingintoalternatetechnologies",
+    "Finished": "Blake - working on follower list\nEric - research into S3 Buckets\nNathan - Reviewed creating server requests\nJosh - Reviewed code\nJimmy - troubleshooting websockets",
+    "Todo": "Blake - reviewing the network overview document\nEric - start working on S3 Buckets\nNathan - Follow / following / block server requests\nJosh - working on Follow button CSS\nJimmy - looking into alternate technologies",
     "Notes": ""
 },
 {
     "Date": "10/16/24",
-    "Finished":"Blake-caughtup\nEric-????\nNathan-????\nJosh-researchedforfollowwerslist\nJimmy-catchingupwithotherclass",
-    "Todo": "Blake-submitthedocument,workoncode\nEric-????\nNathan-????\nJosh-followerlistimplementation\nJimmy-sockettroubleshooting/lookintosocket.io",
+    "Finished": "Blake - caught up\nEric - ????\nNathan - ????\nJosh - researched for followers list\nJimmy - catching up with other class",
+    "Todo": "Blake - submit the document, work on code\nEric - ????\nNathan - ????\nJosh - follower list implementation\nJimmy - socket troubleshooting / look into socket.io",
     "Notes": ""
 },
 {
     "Date": "10/17/24",
-    "Finished":"Blake-SubmittedNetworkOverview\nEric-WorkingonProfilePage\nNathan-Settingupserverendpoint\nJosh-StudyingforMidterm\nJimmy-testingalternatebackendhosts",
-    "Todo": "Blake-workonfollowmethod\nEric-focusingonHW\nNathan-settingupdbquerymethod\nJosh-Workonfollowmethod\nJimmy-testingalternatebackendhosts",
+    "Finished": "Blake - Submitted Network Overview\nEric - Working on Profile Page\nNathan - Setting up server endpoint\nJosh - Studying for Midterm\nJimmy - testing alternate backend hosts",
+    "Todo": "Blake - work on follow method\nEric - focusing on HW\nNathan - setting up db query method\nJosh - Work on follow method\nJimmy - testing alternate backend hosts",
     "Notes": ""
 },
 {
     "Date": "10/21/24",
-    "Finished":"Blake-midterm\nEric-midterm,workingonpfp\nNathan-Creatednewbackendmethodsforfollowing,updatedmainsitewithprofileviewandfollow/unfollowbuttons,movedmessagebutton\nJosh-midterm,workingonfollowers\nJimmy-messagingtroubleshooting",
-    "Todo": "Blake-catchuponcode,followerslistvisibility\nEric-workingonprofilepictures/banner\nNathan-lookingintoalternativestowebsocket\nJosh-postsonprofilepage\nJimmy-Workingonprofilepage,lookingatalternativestowebsockets",
+    "Finished": "Blake - midterm\nEric - midterm, working on pfp\nNathan - Created new backend methods for following, updated main site with profile view and follow / unfollow buttons, moved message button\nJosh - midterm, working on followers\nJimmy - messaging troubleshooting",
+    "Todo": "Blake - catch up on code, followers list visibility\nEric - working on profile pictures / banner\nNathan - looking into alternatives to websocket\nJosh - posts on profile page\nJimmy - Working on profile page, looking at alternatives to websockets",
     "Notes": ""
 },
 {
     "Date": "10/22/24",
-    "Finished":"Blake-????\nEric-????\nNathan-Lookingintoappsyncformessaging\nJosh-userpostsdisplayonprofilepage\nJimmy-????",
-    "Todo": "Blake-????\nEric-????\nNathan-continueresearchandimplementation\nJosh-????\nJimmy-????",
-    "Notes": "Asynchronus Meeting"
+    "Finished": "Blake - ????\nEric - ????\nNathan - Looking into appsync for messaging\nJosh - user posts display on profile page\nJimmy - ????",
+    "Todo": "Blake - ????\nEric - ????\nNathan - continue research and implementation\nJosh - ????\nJimmy - ????",
+    "Notes": "Asynchronous Meeting"
 },
 {
     "Date": "10/23/24",
-    "Finished":"Blake-registration,openedabranchforfollowers\nEric-????\nNathan-????\nJosh-WorkedonPFCSS,andtimestampconversion\nJimmy-lookingoverfrontend",
-    "Todo": "Blake-????\nEric-????\nNathan-????\nJosh-continueonpfpcss\nJimmy-abstractinglogin",
+    "Finished": "Blake - registration, opened a branch for followers\nEric - ????\nNathan - ????\nJosh - Worked on PF CSS, and timestamp conversion\nJimmy - looking over frontend",
+    "Todo": "Blake - ????\nEric - ????\nNathan - ????\nJosh - continue on pfp css\nJimmy - abstracting login",
     "Notes": ""
 },
 {
     "Date": "10/25/24",
-    "Finished":"",
+    "Finished": "",
     "Todo": "",
     "Notes": "Members did not meet up"
 },
 {
     "Date": "10/28/24",
-    "Finished":"Blake-workingonfollowers\nEric-????\nNathan-workedonmessaging,cleanedupcode\nJosh-pushedprofilepostsandmergedwithmain\nJimmy-workingonabstractingloginfunction",
-    "Todo": "Blake-researchthefollowersmodal\nEric-????\nNathan-researchingprofilebuckets\nJosh-researchandimplementfollowersfollowingshowingasalist\nJimmy-refactoringcode",
+    "Finished": "Blake - working on followers\nEric - ????\nNathan - worked on messaging, cleaned up code\nJosh - pushed profile posts and merged with main\nJimmy - working on abstracting login function",
+    "Todo": "Blake - research the followers modal\nEric - ????\nNathan - researching profile buckets\nJosh - research and implement followers / following showing as a list\nJimmy - refactoring code",
     "Notes": ""
 },
 {
     "Date": "10/30/24",
-    "Finished":"Blake-openedusecasedocument\nEric-busypointsofvariousthings\nNathan-ResearchingBuckets\nJosh-????\nJimmy-fixedloginmodal",
-    "Todo": "Blake-workw/joshonfollowermodal\nEric-Workingw/nathantocatchuponbuckets,UseCases\nNathan-imple,entbucketswitheric\nJosh-????\nJimmy-refactorfeed/explorerdatfetch",
+    "Finished": "Blake - opened use case document\nEric - busy points of various things\nNathan - Researching Buckets\nJosh - ????\nJimmy - fixed login modal",
+    "Todo": "Blake - work w / josh on follower modal\nEric - Working w / nathan to catch up on buckets, Use Cases\nNathan - implement buckets with eric\nJosh - ????\nJimmy - refactor feed / explorer data fetch",
     "Notes": ""
 },
 {
     "Date": "10/31/24",
-    "Finished":"Blake-????\nEric-????\nNathan-Workingons3buckets\nJosh-????\nJimmy-????",
-    "Todo": "Blake-????\nEric-????\nNathan-Workingons3buckets\nJosh-TrickorTreating\nJimmy-????",
+    "Finished": "Blake - ????\nEric - ????\nNathan - Working on s3 buckets\nJosh - ????\nJimmy - ????",
+    "Todo": "Blake - ????\nEric - ????\nNathan - Working on s3 buckets\nJosh - Trick or Treating\nJimmy - ????",
     "Notes": "Halloween, Meeting Optional"
 },
 {
     "Date": "11/01/24",
-    "Finished":"Blake-UseCaseDocument\nEric-UseCaseDocument\nNathan-implementedmediauploadmodal\nJosh-????\nJimmy-researchingloginredirectbug",
-    "Todo": "Blake-CEOdforSprint\neric-wrapupusecases/bucketimplementation\nNathan-connnectmediauploadtobucket\nJosh-????\nJimmy-newauthenticationmodal",
+    "Finished": "Blake - Use Case Document\nEric - Use Case Document\nNathan - implemented media upload modal\nJosh - ????\nJimmy - researching login redirect bug",
+    "Todo": "Blake - CEO d for Sprint\nEric - wrap up use cases / bucket implementation\nNathan - connect media upload to bucket\nJosh - ????\nJimmy - new authentication modal",
     "Notes": ""
 },
 {
     "Date": "11/04/24",
-    "Finished":"Blake-????\nEric-????\nNathan-workingons3buckets(PFPandBanner)\nJosh-openuserprofilewhenclickedinfollowersfollowingtab,addedXtoescapefollowingfollowerlist\nJimmy-havinguniqueusernames,cleanedupbackend,changedlogin",
-    "Todo": "Blake-CEOreportusingcodetoseecontributions\nEric-logoutbuttonandfunctionality\nNathan-workingonmakingbannerupdateandpfpsitewide\nJosh-addfollowersfollowingtootheraccountsprofile,makethebarvertical\nJimmy-workoncss",
+    "Finished": "Blake - ????\nEric - ????\nNathan - working on s3 buckets (PFP and Banner)\nJosh - open user profile when clicked in followers / following tab, added X to escape following follower list\nJimmy - having unique usernames, cleaned up backend, changed login",
+    "Todo": "Blake - CEO report using code to see contributions\nEric - logout button and functionality\nNathan - working on making banner update and pfp sitewide\nJosh - add followers / following to other accounts profile, make the bar vertical\nJimmy - work on css",
     "Notes": ""
 },
 {
     "Date": "11/05/24",
-    "Finished":"Blake-????\nEric-????\nNathan-finishedaddingimagepulls\nJosh-movedheadertosidebar\nJimmy-????",
-    "Todo": "Blake-????\nEric-????\nNathan-fin tuning app, implementing jimmy's userauth\nJosh-bringfollower/followingintotheotheruserprofile\nJimmy-????",
+    "Finished": "Blake - ????\nEric - ????\nNathan - finished adding image pulls\nJosh - moved header to sidebar\nJimmy - ????",
+    "Todo": "Blake - ????\nEric - ????\nNathan - fine tuning app, implementing jimmy's user auth\nJosh - bring follower / following into the other user profile\nJimmy - ????",
     "Notes": ""
 },
 {
     "Date": "11/06/24",
-    "Finished":"Blake-WorkingonCEOReport\nEric-workingonlogoutfunction\nNathan-mergedalotofbranchesintomain\nJosh-Bugfixeswiththenewsidebar,followingmodalworksonotherprofiles,reorganizedheader\nJimmy-updatinglogincss",
-    "Todo": "Blake-finishingupCEOreport\nEric-finishinglogoutfuntion\nNathan-sortfunctionforexplorepage\nJosh-Goingonvacation,minorbugfixes,deleteposts\nJimmy-assistingericonprofilecss",
+    "Finished": "Blake - Working on CEO Report\nEric - working on logout function\nNathan - merged a lot of branches into main\nJosh - Bug fixes with the new sidebar, following modal works on other profiles, reorganized header\nJimmy - updating login css",
+    "Todo": "Blake - finishing up CEO report\nEric - finishing logout function\nNathan - sort function for explore page\nJosh - Going on vacation, minor bug fixes, delete posts\nJimmy - assisting eric on profile css",
     "Notes": ""
 },
 {
     "Date": "11/08/24",
-    "Finished":"Blake-workingonCEOreportandUseCasedocument\nEric-????\nNathan-addededitbuttontoprofile\nJosh-busy\nJimmy-setupunittestsfordatabasefunctions",
-    "Todo": "Blake-WorkingonCEOreport\nEric-????\nNathan-workonunittests\nJosh-integratefollower/followingbutton\nJimmy-addmoreunittests",
+    "Finished": "Blake - working on CEO report and Use Case document\nEric - ????\nNathan - added edit button to profile\nJosh - busy\nJimmy - setup unit tests for database functions",
+    "Todo": "Blake - Working on CEO report\nEric - ????\nNathan - work on unit tests\nJosh - integrate follower / following button\nJimmy - add more unit tests",
+    "Notes": ""
+},
+{
+    "Date": "11/12/24",
+    "Finished": "Blake - break\nEric - break\nNathan - break\nJosh - break\nJimmy - break",
+    "Todo": "Blake - ???\nEric - ???\nNathan - Making frontend unit tests\nJosh - Breaking down frontend into better components\nJimmy - Making backend unit tests",
+    "Notes": ""
+},
+{
+    "Date": "11/13/24",
+    "Finished": "Blake - ???\nEric - ???\nNathan - Made some Frontend unit tests\nJosh - broke down Profile.jsx into components\nJimmy - Made some backend unit tests",
+    "Todo": "Blake - ???\nEric - ???\nNathan - Making frontend unit tests\nJosh - Breaking down frontend into better components\nJimmy - Making backend unit tests",
+    "Notes": ""
+},
+{
+    "Date": "11/14/24",
+    "Finished": "Blake - ???\nEric - ???\nNathan - Made some Frontend unit tests\nJosh - broke down Feed.jsx into components\nJimmy - Made some backend unit tests",
+    "Todo": "Blake - making Frontend Unit Tests\nEric - ???\nNathan - Making frontend unit tests\nJosh - Making frontend unit tests\nJimmy - Making backend unit tests",
+    "Notes": ""
+},
+{
+    "Date": "11/15/24",
+    "Finished": "Blake - Added unit tests\nEric - ???\nNathan - Made some Frontend unit tests\nJosh - Added frontend unit tests\nJimmy - Made some backend unit tests",
+    "Todo": "",
     "Notes": ""
 },
 {
     "Date": "11/18/24",
-    "Finished":"Blake-someunittests\nEric-????\nNathan-addedextrunittests\nJosh-Pushingcodefromlaptop\nJimmy-postdeletionimplementation",
-    "Todo": "Blake-Designdescription\nEric-????\nNathan-imagesaddedtopoststhroughbuckets\nJosh-WorkingonhomepageL&F\nJimmy-addingcomments",
+    "Finished": "Blake - some unit tests\nEric - ????\nNathan - added extra unit tests\nJosh - Pushing code from laptop\nJimmy - post deletion implementation",
+    "Todo": "Blake - Design description\nEric - ????\nNathan - images added to posts through buckets\nJosh - Working on homepage L & F\nJimmy - adding comments",
     "Notes": ""
 },
 {
     "Date": "11/20/24",
-    "Finished":"Blake-startedondesignsection\nEric-workingonlikefunctionality,addingtodoc\nNathan-deleteimgfroms3bucketmethodinbackendandconnectedtoupdateprofileaction\nJosh-workedonusecasesforreports,deletionforprofilepostsonlyonyouraccount,fixedbackbreakingfollowerfollowingbutton\nJimmy-Like/Commentfunctionalitybackend,addedtodocument",
-    "Todo": "Blake-updatediagramsforcurrentproject\nEric-workingondocument\nNathan-fixinguppostsandaddingimgs\nJosh-continueworkingondeletebutton\nJimmy-addingmorepagestodocument",
+    "Finished": "Blake - started on design section\nEric - working on like functionality, adding to doc\nNathan - delete img from s3 bucket method in backend and connected to update profile action\nJosh - worked on use cases for reports, deletion for profile posts only on your account, fixed back breaking follower following button\nJimmy - Like / Comment functionality backend, added to document",
+    "Todo": "Blake - updated diagrams for current project\nEric - working on document\nNathan - fixing up posts and adding imgs\nJosh - continue working on delete button\nJimmy - adding more pages to document",
     "Notes": ""
 },
 {
     "Date": "11/22/24",
-    "Finished":"Blake-newnetworkdiagram\nEric-????\nNathan-workedonfixingmsg\nJosh-finalizedeletepostfunctionality\nJimmy-????",
-    "Todo": "Blake-presentationoutline\nEric-finishinglikesfeatureandworkonappendixfordocumentation\nNathan-fixposting,addimgs\nJosh-transferdeletefunctiontopcandpush\nJimmy-????",
+    "Finished": "Blake - new network diagram\nEric - ????\nNathan - worked on fixing msg\nJosh - finalized delete post functionality\nJimmy - ????",
+    "Todo": "Blake - presentation outline\nEric - finishing likes feature and work on appendix for documentation\nNathan - fix posting, add imgs\nJosh - transfer delete function to pcan and push\nJimmy - ????",
     "Notes": ""
 },
 {
     "Date": "11/25/24",
-    "Finished":"Blake-Outlinefordemo\nEric-????\nNathan-????\nJosh-PostDeletionfeature\nJimmy-helpingnathanwithpostingbugfixes",
-    "Todo": "Blake-addingrefresh\nEric-workingonlikes\nNathan-???\nJosh-pushingcodefromlaptopintoproduction,minorsitefixes\nJimmy-postingfixes",
+    "Finished": "Blake - Outline for demo\nEric - ????\nNathan - ????\nJosh - Post Deletion feature\nJimmy - helping nathan with posting bug fixes",
+    "Todo": "Blake - adding refresh\nEric - working on likes\nNathan - ???\nJosh - pushing code from laptop into production, minor site fixes\nJimmy - posting fixes",
     "Notes": ""
 },
 {
     "Date": "11/27/24",
-    "Finished":"Blake-????\nEric-????\nNathan-fixedmessaging,addedsorting,fixedfollowbutton\nJosh-bugfixesandwebsitelookandfeeloverhaul\nJimmy-fixingfeed,refactoringfrontend",
-    "Todo": "Blake-????\nEric-????\nNathan-????\nJosh-refinedesignandimplementitwithCSS\nJimmy-tidyupfrontend",
+    "Finished": "Blake - ????\nEric - ????\nNathan - fixed messaging, added sorting, fixed follow button\nJosh - bug fixes and website look and feel overhaul\nJimmy - fixing feed, refactoring frontend",
+    "Todo": "Blake - ????\nEric - ????\nNathan - ????\nJosh - refine design and implement it with CSS\nJimmy - tidy up frontend",
     "Notes": ""
 },
 {
     "Date": "12/02/24",
-    "Finished":"Blake-Break\nEric-????\nNathan-????\nJosh-NewCSSoverhaul\nJimmy-Break",
-    "Todo": "Blake-????\nEric-????\nNathan-searchforusers/conversations\nJosh-PushingCSS,loginexclusivity\nJimmy-Postsonprofile",
+    "Finished": "Blake - Break\nEric - ????\nNathan - ????\nJosh - New CSS overhaul\nJimmy - Break",
+    "Todo": "Blake - ????\nEric - ????\nNathan - search for users / conversations\nJosh - Pushing CSS, login exclusivity\nJimmy - Posts on profile",
     "Notes": ""
 },
 {
     "Date": "12/04/24",
-    "Finished":"Blake-????\nEric-workingwithjimmyforlikes\nNathan-mergingbranches,resolvingconflicts,usernamesonpostpage\nJosh-????\nJimmy-implementedlikes/comments",
-    "Todo": "Blake-????\nEric-????\nNathan-postsonimages\nJosh-????\nJimmy-bugfixesonpostspage",
+    "Finished": "Blake - ????\nEric - working with jimmy for likes\nNathan - merging branches, resolving conflicts, usernames on post page\nJosh - ????\nJimmy - implemented likes / comments",
+    "Todo": "Blake - ????\nEric - ????\nNathan - posts on images\nJosh - ????\nJimmy - bug fixes on posts page",
     "Notes": ""
 }
 ]
