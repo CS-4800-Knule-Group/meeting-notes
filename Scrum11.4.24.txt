@@ -3,12 +3,12 @@ Accomplished Previously:
 Blake - ????
 Eric - ????
 Nathan - working on s3 buckets (PFP and Banner)
-Josh - ????
-Jimmy - ????
+Josh - open user profile when clicked in followers following tab, added X to escape following follower list
+Jimmy - having unique usernames, cleaned up backend, changed login
 Todo:
-Blake - ????
-Eric - ????
-Nathan - wokring on making banner update and pfp sitewide
-Josh - ????
-Jimmy - ????
+Blake - CEO report using code to see contributions
+Eric - logout button and functionality
+Nathan - working on making banner update and pfp sitewide
+Josh - add followers following to other accounts profile, make the bar vertical
+Jimmy - work on css
 Attendance/Additional Notes
