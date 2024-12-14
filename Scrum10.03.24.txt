@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - opened network overview
+Eric - working on force login
+Nathan - ????
+Josh - ????
+Jimmy - ????
+Todo:
+Blake - working on network overview
+Eric - working on network overview 
+Nathan - ????
+Josh - ????
+Jimmy - fixing social media app hosting
+Attendance/Additional Notes

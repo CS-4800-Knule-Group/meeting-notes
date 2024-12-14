@@ -1,0 +1,15 @@
+Scrum Notes 09/26/24
+Accomplished Previously:
+Blake - reviewing diagram for code accuracy
+Eric - brainstorming feed layout/format
+Nathan - started profile page HTML and CSS
+Josh - pushed register page, added white logo
+Jimmy - started implementing JWT
+Todo:
+Blake - look into spliting database.js
+Eric - working with josh on feed
+Nathan - working with jimmy to pull userinfo from DB
+Josh - working with eric on feed
+Jimmy - finishing JWT implementation and refactoring code
+Attendance/Additional Notes
+Asynchronus meeting pulled from discord

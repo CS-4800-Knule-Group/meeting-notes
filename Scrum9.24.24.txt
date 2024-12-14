@@ -1,0 +1,15 @@
+Scrum Notes 09/24/24
+Accomplished Previously:
+Blake - read up on OOP diagrams
+Eric - creating login buttons
+Nathan - created page for login and profile
+Josh - looked at references for look and feel
+Jimmy - started userAuth
+Todo:
+Blake - catching up with understanding the codebase
+Eric - mirror login page to register
+Nathan - work on profile/user page
+Josh - working on CSS
+Jimmy - continue implementing userauth
+Attendance/Additional Notes
+asynchronus meeting pulled from discord
