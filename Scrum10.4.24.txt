@@ -3,12 +3,12 @@ Accomplished Previously:
 Blake - Network overview
 Eric - ????
 Nathan - pushed feed functionality
-Josh - ????
+Josh - CSS for the profile page
 Jimmy - Comment functionality
 Todo:
 Blake - working on diagram
 Eric - ????
 Nathan - researching messaging app/html
-Josh - ????
+Josh - Transfer to PC and push
 Jimmy - researching messaging
 Attendance/Additional Notes
