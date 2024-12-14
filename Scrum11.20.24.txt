@@ -2,13 +2,13 @@ Scrum Notes 11/20/24
 Accomplished Previously:
 Blake - started on design section
 Eric - working on like functionality, adding to doc
-Nathan - ????
-Josh - ????
+Nathan - delete img from s3 bucket method in back end and connected to update profile action
+Josh - worked on use cases for reports, deletion for profile posts only on your account, fixed bug breaking follower following button
 Jimmy - Like/Comment functionality backend, added to document
 Todo:
 Blake - update diagrams for current project
 Eric - working on document
-Nathan - ????
-Josh - ????
+Nathan - fixing up posts and adding imgs
+Josh - continue working on delete button
 Jimmy - adding more pages to document
 Attendance/Additional Notes
