@@ -1,0 +1,14 @@
+Scrum Notes 10/15/24
+Accomplished Previously:
+Blake - working on follower list
+Eric - research into S3 Buckets
+Nathan - Reviewed creating server requests
+Josh - Reviewed code
+Jimmy - troubleshooting websockets
+Todo:
+Blake - reviewing the network overview document
+Eric - start working on S3 Buckets
+Nathan - Follow/following/block server requests
+Josh - working on Follow button CSS
+Jimmy - looking into alternate technologies
+Attendance/Additional Notes

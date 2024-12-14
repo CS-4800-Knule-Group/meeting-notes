@@ -1,0 +1,15 @@
+Scrum Notes 10/17/24
+Accomplished Previously:
+Blake - Submitted Network Overview
+Eric - Working on Profile Page
+Nathan - Setting up server endpoint
+Josh - Studying for Midterm
+Jimmy - testing alternate backend hosts
+Todo:
+Blake - work on follow method
+Eric - focusing on HW
+Nathan - setting up db query method
+Josh - Work on follow method
+Jimmy - testing alternate backend hosts
+Attendance/Additional Notes
+Asynchronus from discord

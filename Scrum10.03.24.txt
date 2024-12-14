@@ -4,7 +4,7 @@ Blake - opened network overview
 Eric - working on force login
 Nathan - ????
 Josh - ????
-Jimmy - ????
+Jimmy - working on comment
 Todo:
 Blake - working on network overview
 Eric - working on network overview 

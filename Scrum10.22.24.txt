@@ -1,0 +1,15 @@
+Scrum Notes 10/22/24
+Accomplished Previously:
+Blake - ????
+Eric - ????
+Nathan - Looking into appsync for messaging
+Josh - user posts display on profile page
+Jimmy - ????
+Todo:
+Blake - ????
+Eric - ????
+Nathan - continue research and implementation
+Josh - ????
+Jimmy - ????
+Attendance/Additional Notes
+asynchronous, missing members

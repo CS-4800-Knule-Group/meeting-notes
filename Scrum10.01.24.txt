@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - looking into development methods
+Eric - working with nathan on login functionality
+Nathan - added JWT to cookies
+Josh - Working on Profile page CSS
+Jimmy - funtion to retrieve specific user's posts
+Todo:
+Blake - working on network overview
+Eric - adding login redirect
+Nathan - Update page based on JWT
+Josh - finishing CSS on profiles
+Jimmy - finish up post retrieval
+Attendance/Additional Notes

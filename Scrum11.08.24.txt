@@ -1,0 +1,14 @@
+Scrum Notes 11/08/24
+Accomplished Previously:
+Blake - working on CEO report and Use Case document
+Eric - ????
+Nathan - added edit button to profile
+Josh - busy
+Jimmy - setup unit tests for database functions
+Todo:
+Blake - Working on CEO report
+Eric - ????
+Nathan - work on unit tests
+Josh - integrate follower/following button
+Jimmy - add more unit tests
+Attendance/Additional Notes

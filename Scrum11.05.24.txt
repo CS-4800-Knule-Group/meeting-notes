@@ -1,0 +1,14 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - ????
+Eric - ????
+Nathan - finished adding image pulls
+Josh - moved header to a sidebar
+Jimmy - ????
+Todo:
+Blake - ????
+Eric - ????
+Nathan - fine tuning app, implementing jimmy's userauth
+Josh - bring follower/following into the otheruser profile
+Jimmy - ????
+Attendance/Additional Notes

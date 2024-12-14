@@ -1,0 +1,15 @@
+Scrum Notes MM/DD/YY
+Accomplished Previously:
+Blake - ????
+Eric - ????
+Nathan - fixed messaging, added sorting, fixed follow button
+Josh - bugfixes and website look and feel overhaul
+Jimmy - fixing feed, refactoring frontend
+Todo:
+Blake - ????
+Eric - ????
+Nathan - ????
+Josh - refine design and implement it with CSS
+Jimmy - tidy up frontend
+Attendance/Additional Notes
+happy thanksgiving
