@@ -3,12 +3,12 @@ Accomplished Previously:
 Blake - working on followers
 Eric - ????
 Nathan - worked on messaging, cleaned up code
-Josh - ????
+Josh - pushed profile posts and merged with main
 Jimmy - working on abstracting login function
 Todo:
 Blake - research the followers modal
 Eric - ????
 Nathan - researching profile buckets 
-Josh - ????
+Josh - research and  implement followers following showing as a list
 Jimmy - refactoring code
 Attendance/Additional Notes
